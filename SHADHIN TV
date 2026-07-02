@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="quick" tvg-id="1101",quick
+#EXTINF:-1 tvg-name="quick" tvg-id="1101",Quick TV
 http://172.100.100.100:8088/1101/video.m3u8
 #EXTINF:-1 tvg-name=" [SP] LIVE SPORTS " tvg-id="101", [SP] LIVE SPORTS
 http://172.100.100.100:8088/101/video.m3u8
@@ -11,12 +11,16 @@ http://172.100.100.100:8088/106/video.m3u8
 http://172.100.100.100:8088/110/video.m3u8
 #EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2" tvg-id="115", [SP] STAR-SPORTS-2
 http://172.100.100.100:8088/115/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-3" tvg-id="115", [SP] STAR-SPORTS-3
+http://10.30.30.30:8088/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" [SP] SONY-TEN-1" tvg-id="119", [SP] SONY-TEN-1
 http://172.100.100.100:8088/119/video.m3u8
 #EXTINF:-1 tvg-name=" [SP] SONY-TEN-2" tvg-id="120", [SP] SONY-TEN-2
 http://172.100.100.100:8088/120/video.m3u8
 #EXTINF:-1 tvg-name=" [SP] SONY-TEN-3" tvg-id="121", [SP] SONY-TEN-3
 http://172.100.100.100:8088/121/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-3" tvg-id="121", [SP] SONY-TEN-4
+http://10.30.30.30:8088/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" [SP] SPL-1" tvg-id="123", [SP] SPL-1
 http://172.100.100.100:8088/123/video.m3u8
 #EXTINF:-1 tvg-name=" [SP] SPL-2" tvg-id="124", [SP] SPL-2
@@ -35,12 +39,28 @@ http://172.100.100.100:8088/203/video.m3u8
 http://172.100.100.100:8088/204/video.m3u8
 #EXTINF:-1 tvg-name=" [BD]  SOMY-NEWS" tvg-id="205", [BD]  SOMY-NEWS
 http://172.100.100.100:8088/205/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  independent TV" tvg-id="205", [BD]  independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  NEWS 24" tvg-id="205", [BD]  NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD] JAMUNA TV" tvg-id="205", [BD]  JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD] ALJARIRA" tvg-id="205", [BD]  ALJARIRA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-name=" [BD]   MASRANGA-TV" tvg-id="206", [BD]   MASRANGA-TV
 http://172.100.100.100:8088/206/video.m3u8
 #EXTINF:-1 tvg-name=" [BD]  channel-i" tvg-id="207", [BD]  channel-i
 http://172.100.100.100:8088/207/video.m3u8
 #EXTINF:-1 tvg-name=" [BD]   JAMUNA-TV" tvg-id="209", [BD]   JAMUNA-TV
 http://172.100.100.100:8088/209/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]   DEEPTO TV" tvg-id="209", [BD]   DEEPTO TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]   BANGLA VISOIN" tvg-id="209", [BD]   BANGLA VISOIN
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  NTV" tvg-id="209", [BD]  NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  CHANNEL 9" tvg-id="209", [BD]  CHANNEL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-name=" [INBD]  ZEE-BANGLA" tvg-id="301", [INBD]  ZEE-BANGLA
 http://172.100.100.100:8088/301/video.m3u8
 #EXTINF:-1 tvg-name=" [INBD]  STAR-JALSHA" tvg-id="302", [INBD]  STAR-JALSHA
