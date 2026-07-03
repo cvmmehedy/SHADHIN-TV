@@ -103,3 +103,7 @@ http://172.100.100.100:8088/601/video.m3u8
 http://172.100.100.100:8088/602/video.m3u8
 #EXTINF:-1 tvg-name="quick" tvg-id="1101",quick
 http://172.100.100.100:8088/1101/video.m3u8
+#EXTINF:-1 tvg-name="quick" tvg-id="1101",T-sports low
+https://stream.moviemania.top/live/index.m3u8
+
+
