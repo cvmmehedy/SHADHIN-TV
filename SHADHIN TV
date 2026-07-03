@@ -61,8 +61,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-name=" [BD]  CHANNEL 9" tvg-id="209", [BD]  CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-name=" [BD]  CHANNEL 9" tvg-id="209", [BD]  SRK TV
+#EXTINF:-1 tvg-name=" [BD]  SRK TV" tvg-id="209", [BD]  SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [BD] Sananda television" tvg-id="209", [BD]  Sananda television
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [BD] Gseries Drama" tvg-id="209", [BD]  Gseries Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" [BD]MOVIE BANGLA" tvg-id="209", [BD]  MOVIE BANGLA
+https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-name=" [INBD]  ZEE-BANGLA" tvg-id="301", [INBD]  ZEE-BANGLA
 http://172.100.100.100:8088/301/video.m3u8
 #EXTINF:-1 tvg-name=" [INBD]  STAR-JALSHA" tvg-id="302", [INBD]  STAR-JALSHA
