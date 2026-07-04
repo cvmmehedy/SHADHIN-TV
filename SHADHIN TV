@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="quick" tvg-id="1101" tvg-logo=" https://i.postimg.cc/nCDwFH8L/1280px-T-Sports-logo-svg.png",Quick TV
-http://172.100.100.100:8088/1101/video.m3u8
+http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" [SP] LIVE SPORTS " tvg-id="101", [SP] LIVE SPORTS
 http://172.100.100.100:8088/101/video.m3u8
 #EXTINF:-1 tvg-name=" [SP] T-SPORTS" tvg-id="102", [SP] T-SPORTS
@@ -110,7 +110,7 @@ http://172.100.100.100:8088/601/video.m3u8
 #EXTINF:-1 tvg-name=" [MUSIC]  DESNE-JUNIER" tvg-id="602", [MUSIC]  DESNE-JUNIER
 http://172.100.100.100:8088/602/video.m3u8
 #EXTINF:-1 tvg-name="quick" tvg-id="1101",quick
-http://172.100.100.100:8088/1101/video.m3u8
+http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="T-sports low" tvg-id="1101",T-sports low
 http://stream.moviemania.top/live/index.m3u8
 
