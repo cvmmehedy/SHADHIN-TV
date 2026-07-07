@@ -49,6 +49,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-name=" [BD]   MASRANGA-TV" tvg-id="206", [BD]   MASRANGA-TV
 http://172.100.100.100:8088/206/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  Sananda-TV" tvg-id="206", [BD]   Sananda-TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" [BD]  channel-i" tvg-id="207", [BD]  channel-i
 http://172.100.100.100:8088/207/video.m3u8
 #EXTINF:-1 tvg-name=" [BD]   JAMUNA-TV" tvg-id="209", [BD]   JAMUNA-TV
